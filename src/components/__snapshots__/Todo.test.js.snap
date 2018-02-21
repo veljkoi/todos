@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Todo/> renders with line-trough if completed 1`] = `
+<li
+  onClick={[Function]}
+  style={
+    Object {
+      "textDecoration": "line-through",
+    }
+  }
+>
+  test
+</li>
+`;
